@@ -1,0 +1,155 @@
+.title_bds{
+	font-size:28px
+}
+.diachi i{
+	color:#ff9933
+}
+.ma_tin{
+	z-index: 999;
+    position: relative;
+    float: right;
+}
+.t-detail [class*=label-] {
+    height: 20px;
+    font-size: 14px;
+    border-radius: 4px;
+    padding: 0 8px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-right: 4px;
+}
+
+.t-detail .label-1 {
+    background: rgba(243,116,6,.1);
+    color: #ef7733;
+}
+.t-detail .label-2 {
+    background: rgba(21,90,169,.1);
+    color: #242933;
+}
+.t-detail.label-3 {
+    background-color: #f4f4f4;
+    color: #242933;
+}
+
+.detailroom{
+	margin-top:20px
+}
+
+.detailroom ul {
+    margin-left: 25px;
+    text-align: center;
+    background: #f9f9f9;
+    border-radius: 4px;
+    margin: 0 0 24px;
+    padding: 13px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+.detailroom li {
+    list-style: none;
+    padding-top: 10px;
+}
+.detailroom i {
+    position: relative;
+}
+.detailroom li span {
+    display: block;
+    color: #242933;
+    font-size: 16px;
+    letter-spacing: .432353px;
+    line-height: 20px;
+}
+.detailroom li span.sp-info {
+    color: #155aa9;
+}
+
+.detailroom li i {
+    color: #ff9933;
+	font-size: 30px;
+}
+
+.ulisting-price{
+	font-weight: 700;
+    color: #ff9933;
+    font-size: 20px;
+	text-align:left
+}
+
+.detailroom p{
+	margin:0px
+}
+
+.accordion-button{
+	text-transform:uppercase;
+	color:#000;
+	font-size:18px;
+	padding-left:0px;
+	font-weight:700
+}
+.accordion-item{
+	border-top: 1px solid #bdbdbd !important;
+    border: none;
+    border-radius: 0px !important;
+    padding: 0px;
+}
+.accordion-button:not(.collapsed) {
+    color: #ff9933;
+    background-color: transparent;
+    box-shadow: none
+}
+.accordion-button:focus{
+    border: none;
+	background-color: transparent;
+	box-shadow: none
+}
+
+.info_basic ul, .info_basic2 ul{ 
+	list-style:none;
+	padding-left:0px;
+	margin:0px
+}
+.info_basic ul li {
+    border-top: 1px solid rgba(0,0,0,.16);
+    list-style: none;
+    margin-bottom: 0;
+    overflow: hidden;
+    padding: 8px 0;
+}
+
+.info_basic ul li span.sp-info {
+    color: #000;
+    float: right;
+    max-width: 180px;
+    text-align: right;
+}
+
+.accordion-body{
+	padding:15px 0px
+}
+.text-icon{
+	color: #155aa9;
+    float: right;
+    max-width: 180px;
+    text-align: right;
+}
+
+.info_basic2 ul li {
+    list-style: none;
+    margin-bottom: 0;
+    overflow: hidden;
+    padding: 5px 0;
+}
+.info_basic2 ul li:nth-child(2n){
+	margin-left:50px
+}
+
+.bg_detail{
+	background:#f5f5ef
+}
+
+
+
+
+
+

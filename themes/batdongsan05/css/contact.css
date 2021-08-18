@@ -1,0 +1,61 @@
+.agent-info-box {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.agent-info-box .avatar {
+    max-width: 120px;
+    padding-right: 20px;
+}
+.agent-info-box .info {
+    min-width: 200px;
+}
+.agent-info-box .user_position {
+    font-size: 14px;
+    font-weight: 400;
+    color: #aeaeae;
+}
+
+#contactButton{
+    z-index:1000;
+}
+#contactButton .panel{
+    margin-bottom:0;
+    width:100%;
+    color:#333;
+    display:none
+}
+
+#contactButton .ctb{
+	background:transparent;
+	border:none
+}
+
+.btn-contact{
+	border:1px solid #fff;
+	padding:12px 40px;
+	background:#fff;
+	color:#000
+}
+
+#contactButton .ctb em{
+    margin-right:3px;
+    font-size: 1.6em;
+    vertical-align:middle
+}
+@media (max-width:1199px) {
+    #contactButton .ctb{
+        right:70px;
+    }
+}
+@media (max-width:499px) {
+    #contactButton{
+        right:auto;
+        left:0;
+        width:100%
+    }
+}

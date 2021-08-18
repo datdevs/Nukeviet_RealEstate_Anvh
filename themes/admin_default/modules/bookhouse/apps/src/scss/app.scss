@@ -1,0 +1,76 @@
+label {
+  margin: 0;
+}
+
+.el-loading-mask.is-fullscreen {
+  .el-icon-loading {
+    font-size: 20px;
+  }
+  .el-loading-text {
+    font-size: 16px;
+  }
+}
+
+.el-button--mini {
+  &.is-square {
+    padding: 5px;
+  }
+}
+
+.el-table {
+  // th > .cell {
+  //   white-space: nowrap;
+  // }
+  .cell {
+    word-break: normal;
+  }
+}
+
+.el-dialog__header {
+  border-bottom: 1px solid #ebeef5;
+  padding: 20px;
+}
+
+.el-dialog__headerbtn {
+  line-height: 22px;
+}
+
+.el-dialog__body {
+  padding: 20px;
+}
+
+.el-drawer__header {
+  border-bottom: 1px solid #ebeef5;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.5;
+  margin: 0;
+  padding: 20px;
+}
+
+.el-drawer__body {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.Drawer_Body_Inner {
+  flex: 1;
+  overflow: auto;
+  padding: 20px;
+}
+
+.Drawer_Body_Inner_Footer {
+  background: #ffffff;
+  border-top: 1px solid #ebeef5;
+  padding: 20px;
+  display: flex;
+
+  .el-button {
+    flex: 1;
+  }
+
+  .el-button + .el-button {
+    margin-left: 20px;
+  }
+}

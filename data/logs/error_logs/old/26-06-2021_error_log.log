@@ -1,0 +1,63 @@
+[Sat, 26 Jun 2021 13:22:19 +0700] [nv-realestate.io] [::1] [Notice(8): Undefined index: googleMapsAPI] [FILE: /themes/batdongsan05/blocks/global.company_info.php] [LINE: 176] [TRACE:]
+#1  LINE: 366   FILE: /index.php
+#2  LINE: 21    FILE: /modules/home/funcs/main.php
+#3  LINE: 337   FILE: /themes/batdongsan05/theme.php
+#4  LINE: 182   FILE: /includes/core/user_functions.php
+#5  LINE: 277   FILE: /themes/batdongsan05/blocks/global.company_info.php
+
+[Sat, 26 Jun 2021 13:22:19 +0700] [nv-realestate.io] [::1] [Notice(8): Undefined offset: 0] [FILE: /modules/bookhouse/blocks/global.block_groups_items.php] [LINE: 142] [TRACE:]
+#1  LINE: 366   FILE: /index.php
+#2  LINE: 21    FILE: /modules/home/funcs/main.php
+#3  LINE: 337   FILE: /themes/batdongsan05/theme.php
+#4  LINE: 184   FILE: /includes/core/user_functions.php
+#5  LINE: 201   FILE: /modules/bookhouse/blocks/global.block_groups_items.php
+
+[Sat, 26 Jun 2021 13:22:19 +0700] [nv-realestate.io] [::1] [Notice(8): Undefined variable: block_theme] [FILE: /modules/bookhouse/blocks/global.block_projects_list.php] [LINE: 47] [TRACE:]
+#1  LINE: 366   FILE: /index.php
+#2  LINE: 21    FILE: /modules/home/funcs/main.php
+#3  LINE: 337   FILE: /themes/batdongsan05/theme.php
+#4  LINE: 184   FILE: /includes/core/user_functions.php
+#5  LINE: 101   FILE: /modules/bookhouse/blocks/global.block_projects_list.php
+
+[Sat, 26 Jun 2021 13:22:19 +0700] [nv-realestate.io] [::1] [Notice(8): Undefined variable: module_url] [FILE: /modules/bookhouse/blocks/global.block_projects_list.php] [LINE: 79] [TRACE:]
+#1  LINE: 366   FILE: /index.php
+#2  LINE: 21    FILE: /modules/home/funcs/main.php
+#3  LINE: 337   FILE: /themes/batdongsan05/theme.php
+#4  LINE: 184   FILE: /includes/core/user_functions.php
+#5  LINE: 101   FILE: /modules/bookhouse/blocks/global.block_projects_list.php
+
+[Sat, 26 Jun 2021 13:22:19 +0700] [nv-realestate.io] [::1] [Notice(8): Undefined index: way] [FILE: /themes/batdongsan05/blocks/global.block_bookhouse_search_tab.php] [LINE: 192] [TRACE:]
+#1  LINE: 366   FILE: /index.php
+#2  LINE: 21    FILE: /modules/home/funcs/main.php
+#3  LINE: 337   FILE: /themes/batdongsan05/theme.php
+#4  LINE: 182   FILE: /includes/core/user_functions.php
+#5  LINE: 304   FILE: /themes/batdongsan05/blocks/global.block_bookhouse_search_tab.php
+
+[Sat, 26 Jun 2021 13:22:19 +0700] [nv-realestate.io] [::1] [Notice(8): Undefined variable: allow_province] [FILE: /themes/batdongsan05/blocks/global.block_bookhouse_search_tab.php] [LINE: 208] [TRACE:]
+#1  LINE: 366   FILE: /index.php
+#2  LINE: 21    FILE: /modules/home/funcs/main.php
+#3  LINE: 337   FILE: /themes/batdongsan05/theme.php
+#4  LINE: 182   FILE: /includes/core/user_functions.php
+#5  LINE: 304   FILE: /themes/batdongsan05/blocks/global.block_bookhouse_search_tab.php
+
+[Sat, 26 Jun 2021 13:22:19 +0700] [nv-realestate.io] [::1] [Notice(8): Undefined variable: data] [FILE: /themes/batdongsan05/blocks/global.block_bookhouse_search_tab.php] [LINE: 211] [TRACE:]
+#1  LINE: 366   FILE: /index.php
+#2  LINE: 21    FILE: /modules/home/funcs/main.php
+#3  LINE: 337   FILE: /themes/batdongsan05/theme.php
+#4  LINE: 182   FILE: /includes/core/user_functions.php
+#5  LINE: 304   FILE: /themes/batdongsan05/blocks/global.block_bookhouse_search_tab.php
+
+[Sat, 26 Jun 2021 13:22:19 +0700] [nv-realestate.io] [::1] [Notice(8): Undefined variable: data] [FILE: /themes/batdongsan05/blocks/global.block_bookhouse_search_tab.php] [LINE: 212] [TRACE:]
+#1  LINE: 366   FILE: /index.php
+#2  LINE: 21    FILE: /modules/home/funcs/main.php
+#3  LINE: 337   FILE: /themes/batdongsan05/theme.php
+#4  LINE: 182   FILE: /includes/core/user_functions.php
+#5  LINE: 304   FILE: /themes/batdongsan05/blocks/global.block_bookhouse_search_tab.php
+
+[Sat, 26 Jun 2021 13:22:19 +0700] [nv-realestate.io] [::1] [Notice(8): Undefined variable: data] [FILE: /themes/batdongsan05/blocks/global.block_bookhouse_search_tab.php] [LINE: 213] [TRACE:]
+#1  LINE: 366   FILE: /index.php
+#2  LINE: 21    FILE: /modules/home/funcs/main.php
+#3  LINE: 337   FILE: /themes/batdongsan05/theme.php
+#4  LINE: 182   FILE: /includes/core/user_functions.php
+#5  LINE: 304   FILE: /themes/batdongsan05/blocks/global.block_bookhouse_search_tab.php
+
